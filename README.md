@@ -4,6 +4,8 @@ A backend app handling the CRUD operations with node js and Mongo db. And the te
 
 # Backend Running process
 
+First Checkout to dev branch
+
 Install all the packages with following command
     npm install  
 
